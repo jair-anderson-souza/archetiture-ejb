@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /gacademico-core/target/
 /gacademico-desktop/target/
 /gacademico-shared/target/
@@ -6,3 +7,17 @@
 /ad-desktop/target/
 /ad-shared/target/
 /ad-web/target/
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 39cb36c29f4bffcc14317513257f54e74201fb5f
